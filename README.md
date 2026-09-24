@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/jjcanada.jpg" width="180" alt="Foto de perfil">
+  <img src="assets/jjcanada.jpeg" width="180" alt="Foto de perfil">
   <h1><strong>Joaquín Cañadas Martínez</strong></h1>
 </p>
 
